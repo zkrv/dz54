@@ -1,0 +1,24 @@
+input{
+    border-radius: 10px;
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+}
+input:hover{
+    background-color: lightgray;
+    scale: 1.1;
+    transition: 0.5s;
+}
+button{
+    margin-left: 50px;
+    height: 40px;
+    width: 100px;
+    color: green;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: lightgray;
+    scale: 1.1;
+    transition: 0.5s;
+}
+
